@@ -2,7 +2,7 @@
 
 ## Plover
 
-* Currently just includes a deck for studying the top 1000 words in Project Gutenberg by frequency.
+* Currently includes decks for studying the top 2000 words in Project Gutenberg by frequency.
 
 ## Card Design
 
