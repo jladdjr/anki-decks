@@ -1,8 +1,9 @@
-# Anki Decks
+# Plover Anki Decks
 
-## Plover
+## Summary
 
 * Includes decks for studying the top 10,000 words in Project Gutenberg by frequency.
+* Also includes a deck for studying the basic sounds on a steno board.
 
 ## Card Design
 
